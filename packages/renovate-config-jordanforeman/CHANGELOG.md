@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.2.1](https://github.com/JordanForeman/config/compare/@jordanforeman/renovate-config@0.2.0...@jordanforeman/renovate-config@0.2.1) (2019-11-16)
+
+
+### Bug Fixes
+
+* **renovate:** fix renovate module ([0c2cc71](https://github.com/JordanForeman/config/commit/0c2cc7143103bc076d32a56807fd7b5dbbe60381))
+
+
+
+
+
 # [0.2.0](https://github.com/JordanForeman/config/compare/@jordanforeman/renovate-config@0.1.0...@jordanforeman/renovate-config@0.2.0) (2019-11-16)
 
 

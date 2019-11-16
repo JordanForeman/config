@@ -1,6 +1,6 @@
 {
   "name": "@jordanforeman/release-config",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Common configuration for repositories using semantic-release",
   "main": "index.js",
   "scripts": {

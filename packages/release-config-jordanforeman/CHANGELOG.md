@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.2.1](https://github.com/JordanForeman/config/compare/@jordanforeman/release-config@0.2.0...@jordanforeman/release-config@0.2.1) (2019-11-16)
+
+
+### Bug Fixes
+
+* bundling required dependencies ([3f70014](https://github.com/JordanForeman/config/commit/3f70014b40277bc8f61ffb033792a9ace736ac32))
+
+
+
+
+
 # [0.2.0](https://github.com/JordanForeman/config/compare/@jordanforeman/release-config@0.1.0...@jordanforeman/release-config@0.2.0) (2019-11-16)
 
 
