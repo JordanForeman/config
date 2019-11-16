@@ -14,8 +14,8 @@ jobs:
       - name: Configure Git
         run: |
           git remote rm origin
-          git remote add origin "https://jordanforeman:$GH_TOKEN@github.com/JordanForeman/config.git"
-          git fetch
+          git remote add origin "https://$RELEASE_GH_USERNAME:$RELEASE_GH_TOKEN@github.com/JordanForeman/config.git"
+          git fetch origin
           git config --global user.email "me@jordanforeman.com"
           git config --global user.name "Jordan Foreman"
       - name: Use Node.js

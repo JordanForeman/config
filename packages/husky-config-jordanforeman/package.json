@@ -1,6 +1,6 @@
 {
   "name": "@jordanforeman/husky-config",
-  "version": "1.0.0",
+  "version": "0.0.0",
   "description": "Common configuration for repositories using husky",
   "main": "index.js",
   "scripts": {
