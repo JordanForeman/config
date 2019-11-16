@@ -1,5 +1,4 @@
 {
-  "version": "1.0.0",
   "author": "Jordan Foreman <me@jordanforeman.com>",
   "license": "MIT",
   "name": "@jordanforeman/config",
@@ -11,6 +10,6 @@
     "commitizen": "^4.0.3",
     "husky": "^3.0.9",
     "lerna": "^3.18.4",
-    "lerna-semantic-release": "^9.1.0"
+    "semantic-release-monorepo": "^6.1.1"
   }
 }
