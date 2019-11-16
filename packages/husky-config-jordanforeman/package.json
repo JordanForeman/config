@@ -1,0 +1,15 @@
+{
+  "name": "@jordanforeman/husky-config",
+  "version": "1.0.0",
+  "description": "Common configuration for repositories using husky",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo NOOP"
+  },
+  "author": "Jordan Foreman <me@jordanforeman.com>",
+  "license": "MIT",
+  "peerDependencies": {
+    "@jordanforeman/commitizen-config": "1.0.0",
+    "@jordanforeman/commitlint-config": "1.0.0"
+  }
+}

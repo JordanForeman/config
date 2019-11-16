@@ -1,0 +1,16 @@
+{
+  "version": "1.0.0",
+  "author": "Jordan Foreman <me@jordanforeman.com>",
+  "license": "MIT",
+  "name": "@jordanforeman/config",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:JordanForeman/config.git"
+  },
+  "devDependencies": {
+    "commitizen": "^4.0.3",
+    "husky": "^3.0.9",
+    "lerna": "^3.18.4",
+    "lerna-semantic-release": "^9.1.0"
+  }
+}

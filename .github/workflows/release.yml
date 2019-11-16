@@ -1,0 +1,27 @@
+name: Semantic Release
+on:
+  push:
+    branches:
+      - master
+jobs:
+  verify-and-deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v1
+      - name: Use Node.js
+        uses: dcodeIO/setup-node-nvm@master
+      - name: Install Node Dependencies
+        run: npm ci
+      - name: Semantic Release
+        env:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          NPM_TOKEN: ${{ secrets.NPM_TOKEN }}
+          NPM_CONFIG_EMAIL: me@jordanforeman.com
+          NPM_CONFIG_USERNAME: jordanforeman
+          RELEASE_GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          RELEASE_GH_USERNAME: jordanforeman
+        run: |
+          npx lerna-semantic-release pre
+          npx lerna-semantic-release perform
+          npx lerna-semantic-release post

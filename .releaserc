@@ -1,0 +1,3 @@
+{
+    "extends": "./packages/release-config-jordanforeman"
+}

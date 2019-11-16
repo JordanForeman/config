@@ -1,0 +1,11 @@
+{
+  "name": "@jordanforeman/renovate-config",
+  "version": "1.0.0",
+  "description": "Common configuration for repositories using Renovate",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo NOOP"
+  },
+  "author": "Jordan Foreman <me@jordanforeman.com>",
+  "license": "MIT"
+}

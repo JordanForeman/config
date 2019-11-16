@@ -1,0 +1,15 @@
+{
+  "name": "@jordanforeman/commitlint-config",
+  "version": "1.0.0",
+  "description": "Common configuration for repositories using commitlint",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo NOOP"
+  },
+  "author": "Jordan Foreman <me@jordanforeman.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@commitlint/cli": "8.2.0",
+    "@commitlint/config-conventional": "8.2.0"
+  }
+}
