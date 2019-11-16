@@ -21,4 +21,4 @@ jobs:
           NPM_CONFIG_USERNAME: jordanforeman
           RELEASE_GH_TOKEN: ${{ secrets.GH_TOKEN }}
           RELEASE_GH_USERNAME: jordanforeman
-        run: npx lerna exec --concurrency 1 -- npx --no-install semantic-release -e semantic-release-monorepo
+        run: npx lerna publish
