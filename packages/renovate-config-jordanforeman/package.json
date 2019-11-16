@@ -10,5 +10,17 @@
   "license": "MIT",
   "publishConfig": {
     "access": "public"
+  },
+  "renovate-config": {
+    "default": {
+      "automerge": true,
+      "extends": [
+        "config:base"
+      ],
+      "major": {
+        "automerge": false
+      },
+      "prConcurrentLimit": 5
+    }
   }
 }
