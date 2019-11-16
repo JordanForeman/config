@@ -11,5 +11,8 @@
   "peerDependencies": {
     "@jordanforeman/commitizen-config": "1.0.0",
     "@jordanforeman/commitlint-config": "1.0.0"
+  },
+  "publishConfig": {
+    "access": "public"
   }
 }

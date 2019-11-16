@@ -11,5 +11,8 @@
   "devDependencies": {
     "commitizen": "4.0.3",
     "cz-conventional-changelog": "3.0.2"
+  },
+  "publishConfig": {
+    "access": "public"
   }
 }
