@@ -23,4 +23,4 @@ jobs:
           NPM_CONFIG_USERNAME: jordanforeman
           RELEASE_GH_TOKEN: ${{ secrets.GH_TOKEN }}
           RELEASE_GH_USERNAME: jordanforeman
-        run: npx lerna publish
+        run: npx lerna publish --yes

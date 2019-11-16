@@ -4,7 +4,8 @@
           "ignoreChanges": [
               "lerna.json"
           ],
-          "message": "chore(publish): version release [skip ci]"
+          "message": "chore(publish): version release [skip ci]",
+          "conventionalCommits": true
       }
   },
   "packages": [
