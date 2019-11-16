@@ -9,6 +9,8 @@ jobs:
     steps:
       - name: Checkout Code
         uses: actions/checkout@v1
+      - name: Prepare repository
+        run: git checkout "${GITHUB_REF:11}"
       - name: Use Node.js
         uses: dcodeIO/setup-node-nvm@master
       - name: Install Node Dependencies
