@@ -18,6 +18,8 @@ jobs:
           git fetch origin
           git config --global user.email "me@jordanforeman.com"
           git config --global user.name "Jordan Foreman"
+      - name: Authenticate with NPM
+        run: echo "//registry.npmjs.org/:_authToken=${{ secrets.NPM_TOKEN }}" >> ~/.npmrc
       - name: Use Node.js
         uses: dcodeIO/setup-node-nvm@master
       - name: Install Node Dependencies
