@@ -1,5 +1,3 @@
 'use strict'
 
-module.exports = {
-    path: "cz-conventional-changelog"
-};
+module.exports = require('cz-conventional-changelog');
