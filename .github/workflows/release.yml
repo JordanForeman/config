@@ -32,4 +32,5 @@ jobs:
           NPM_CONFIG_USERNAME: jordanforeman
           RELEASE_GH_TOKEN: ${{ secrets.GH_TOKEN }}
           RELEASE_GH_USERNAME: jordanforeman
+          HUSKY_SKIP_HOOKS: 1
         run: npx lerna publish --yes
