@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.2.2](https://github.com/JordanForeman/config/compare/@jordanforeman/commitizen-config@1.2.1...@jordanforeman/commitizen-config@1.2.2) (2019-11-19)
+
+
+### Bug Fixes
+
+* **cz:** commitizen alias cz-conventional-changelog ([51158a7](https://github.com/JordanForeman/config/commit/51158a7f22b5d73bcb574ad1542564d8dd9ecb35))
+
+
+
+
+
 ## [1.2.1](https://github.com/JordanForeman/config/compare/@jordanforeman/commitizen-config@1.2.0...@jordanforeman/commitizen-config@1.2.1) (2019-11-16)
 
 
