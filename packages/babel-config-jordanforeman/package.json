@@ -1,0 +1,31 @@
+{
+  "name": "@jordanforeman/babel-config",
+  "version": "0.0.0",
+  "description": "Common configuration for repositories using Babel",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo NOOP"
+  },
+  "files": [
+    "index.js",
+    "babel.config.node.js",
+    "babel.config.browser.js",
+    "common.js"
+  ],
+  "author": "Jordan Foreman <me@jordanforeman.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@babel/cli": "7.6.0",
+    "@babel/core": "7.6.0",
+    "@babel/node": "7.6.0",
+    "@babel/plugin-proposal-function-bind": "7.2.0",
+    "@babel/plugin-proposal-object-rest-spread": "7.5.5",
+    "@babel/polyfill": "7.6.0",
+    "@babel/preset-env": "7.6.0",
+    "@babel/preset-react": "7.0.0",
+    "@babel/register": "7.6.0"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}
