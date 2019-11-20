@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.2.2](https://github.com/JordanForeman/config/compare/@jordanforeman/eslint-config@0.2.1...@jordanforeman/eslint-config@0.2.2) (2019-11-20)
+
+
+### Bug Fixes
+
+* **eslint:** add custom rule overrides ([c1b5b06](https://github.com/JordanForeman/config/commit/c1b5b063cb505f904f9805a295f360de27923034))
+
+
+
+
+
 ## [0.2.1](https://github.com/JordanForeman/config/compare/@jordanforeman/eslint-config@0.2.0...@jordanforeman/eslint-config@0.2.1) (2019-11-16)
 
 
