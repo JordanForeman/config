@@ -1,5 +1,7 @@
 # `@jordanforeman/eslint-config`
 
+<span class="badge-npmversion"><a href="https://www.npmjs.com/package/@jordanforeman/eslint-config" title="View this project on NPM"><img src="https://img.shields.io/npm/v/@jordanforeman/eslint-config.svg" alt="NPM version" /></a></span>
+
 Shared [`eslint`](https://eslint.org/) configuration
 
 ## Installation

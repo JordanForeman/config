@@ -1,5 +1,7 @@
 # `@jordanforeman/commitlint-config`
 
+<span class="badge-npmversion"><a href="https://www.npmjs.com/package/@jordanforeman/commitlint-config" title="View this project on NPM"><img src="https://img.shields.io/npm/v/@jordanforeman/commitlint-config.svg" alt="NPM version" /></a></span>
+
 Shared [`commitlint`](https://commitlint.js.org/#/) configuration
 
 ## Installation
