@@ -1,5 +1,7 @@
 # `@jordanforeman/renovate-config`
 
+<span class="badge-npmversion"><a href="https://www.npmjs.com/package/@jordanforeman/renovate-config" title="View this project on NPM"><img src="https://img.shields.io/npm/v/@jordanforeman/renovate-config.svg" alt="NPM version" /></a></span>
+
 Shared [`Renovate`](https://renovate.whitesourcesoftware.com/) configuration
 
 ## Installation
