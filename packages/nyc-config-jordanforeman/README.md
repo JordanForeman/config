@@ -17,6 +17,8 @@ $ npm i -D @jordanforeman/nyc-config --save-exact
 
 ```json
 {
-    "extends": "@jordanforeman/nyc-config"
+    "nyc": {
+        "extends": "@jordanforeman/nyc-config"
+    }
 }
 ```
