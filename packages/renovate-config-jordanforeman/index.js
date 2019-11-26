@@ -4,7 +4,7 @@ module.exports = {
     extends: ['config:base'],
     masterIssue: true,
     automerge: true,
-    majord: {
+    major: {
         automerge: false
     }
 };
