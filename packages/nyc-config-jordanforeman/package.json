@@ -1,0 +1,20 @@
+{
+  "name": "@jordanforeman/nyc-config",
+  "version": "0.0.0",
+  "description": "Common configuration for repositories using Istanbul/nyc",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo NOOP"
+  },
+  "author": "Jordan Foreman <me@jordanforeman.com>",
+  "license": "MIT",
+  "dependencies": {
+    "nyc": "14.1.1"
+  },
+  "peerDependencies": {
+    "@jordanforeman/babel-config": "0.1.0"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}
