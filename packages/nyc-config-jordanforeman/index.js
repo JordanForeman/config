@@ -3,7 +3,7 @@ module.exports = {
         'test',
         'lib'
     ],
-    require: ['babel-register'],
+    require: ['@babel/register'],
     sourceMap: false,
     instrument: false,
     lines: 100,
