@@ -1,6 +1,6 @@
 {
   "name": "@jordanforeman/renovate-config",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "description": "Common configuration for repositories using Renovate",
   "main": "index.js",
   "scripts": {
