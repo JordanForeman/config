@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.2.5](https://github.com/JordanForeman/config/compare/@jordanforeman/eslint-config@0.2.4...@jordanforeman/eslint-config@0.2.5) (2019-12-02)
+
+
+### Bug Fixes
+
+* **eslint:** add babel-eslint ([185f55b](https://github.com/JordanForeman/config/commit/185f55bd3929485cd3bef13531c210af875d493a))
+
+
+
+
+
 ## [0.2.4](https://github.com/JordanForeman/config/compare/@jordanforeman/eslint-config@0.2.3...@jordanforeman/eslint-config@0.2.4) (2019-11-25)
 
 **Note:** Version bump only for package @jordanforeman/eslint-config
