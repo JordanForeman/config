@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.2.6](https://github.com/JordanForeman/config/compare/@jordanforeman/eslint-config@0.2.5...@jordanforeman/eslint-config@0.2.6) (2019-12-02)
+
+
+### Bug Fixes
+
+* **eslint:** add react rules ([a9028a3](https://github.com/JordanForeman/config/commit/a9028a3a30ef31ca370558a96ec2aa9b962041d9))
+
+
+
+
+
 ## [0.2.5](https://github.com/JordanForeman/config/compare/@jordanforeman/eslint-config@0.2.4...@jordanforeman/eslint-config@0.2.5) (2019-12-02)
 
 
